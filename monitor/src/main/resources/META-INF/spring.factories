@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.lyqiang.monitor.config.MonitorAutoConfig
+org.springframework.context.ApplicationContextInitializer=\
+com.lyqiang.monitor.common.utils.SpringContextUtil
